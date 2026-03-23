@@ -1,0 +1,5 @@
+=== My Profile ===
+Name: paige
+City: houston
+Hobby: learning
+Ai_goal: a language learning application
